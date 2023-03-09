@@ -1,0 +1,19 @@
+main{
+    min-height: 550px;
+}
+.bg-image-container{
+    background-image: url('../imagenes/pagina/fondo-modified.jpg');
+    background-size: cover;
+}
+.avatar{
+    width: 50px;
+    height: 50px;
+}
+
+.divform{
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+    color: white;
+}
